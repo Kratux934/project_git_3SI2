@@ -1,2 +1,7 @@
-# project_git_3SI2
-This is a Learning and Practicing Project of Git
+# Learning Git Html Project
+
+- Verified Commit by all Contributors.
+- Issue's.
+- Pull Requests.
+- master and dev Branches.
+- Hook to check js code.
